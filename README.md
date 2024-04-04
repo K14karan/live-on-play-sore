@@ -1,13 +1,12 @@
 # live-on-play-sore
 
 bike9pro
+https://play.google.com/store/apps/details?id=com.rss.bike9pr
 
-https://play.google.com/store/apps/details?id=com.rss.bike9pro
 bike9pro partner
-
 https://play.google.com/store/apps/details?id=com.rss.bike_service
-Tg Education
 
+Tg Education
 https://play.google.com/store/apps/details?id=com.tgeducation.app
 
 free Ambulance
