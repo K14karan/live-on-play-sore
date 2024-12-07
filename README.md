@@ -7,6 +7,8 @@ Bhavishyavaani https
 
 Nadijyotish https://play.google.com/store/apps/details?id=com.astro.scienceoftime
 
+Nadi Jyotish Astrologer https://play.google.com/store/apps/details?id=com.nadijyotish.live
+
 bike9pro
 https://play.google.com/store/apps/details?id=com.rss.bike9pro
 
