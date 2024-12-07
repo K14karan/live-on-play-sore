@@ -1,6 +1,8 @@
 # live-on-play-sore
-vaktaa=https://play.google.com/store/apps/details?id=com.bhavishyavaani.vaktaa
-Bhavishyavaani=https://play.google.com/store/apps/details?id=com.bhavishyavaani.app
+vaktaa=
+https://play.google.com/store/apps/details?id=com.bhavishyavaani.vaktaa
+Bhavishyavaani=https
+://play.google.com/store/apps/details?id=com.bhavishyavaani.app
 
 bike9pro
 https://play.google.com/store/apps/details?id=com.rss.bike9pro
