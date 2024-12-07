@@ -2,7 +2,7 @@
 vaktaa=
 https://play.google.com/store/apps/details?id=com.bhavishyavaani.vaktaa
 
-Bhavishyavaani=https
+Bhavishyavaani= https
 ://play.google.com/store/apps/details?id=com.bhavishyavaani.app
 
 bike9pro
