@@ -1,9 +1,6 @@
 # live-on-play-sore
-vaktaa 
-https://play.google.com/store/apps/details?id=com.bhavishyavaani.vaktaa
 
-Bhavishyavaani https
-://play.google.com/store/apps/details?id=com.bhavishyavaani.app
+
 
 Nadijyotish https://play.google.com/store/apps/details?id=com.astro.scienceoftime
 
@@ -21,12 +18,11 @@ https://play.google.com/store/apps/details?id=com.tgeducation.app
 free Ambulance
 https://play.google.com/store/apps/details?id=com.ambulance.charitable.trust
 
-spatto 
-https://play.google.com/store/apps/details?id=com.spatto
+Astro Mukti - Online Astrology
+https://play.google.com/store/apps/details?id=com.jyotisuser&hl=en_IN
+Astro Mukti - Astrologer
+https://play.google.com/store/apps/details?id=com.jyotishastro&hl=en_IN
 
-spatto bazar
-https://play.google.com/store/search?q=spatto%20bazaar&c=apps
 
 
-XuseMe
-https://play.google.com/store/apps/details?id=com.xuseme
+
