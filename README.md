@@ -3,7 +3,7 @@
 BookmyAstro-Talk to Astrologer
 https://play.google.com/store/apps/details?id=com.bookmyastro.app&hl=en_IN
 
-Nadijyotish https://play.google.com/store/apps/details?id=com.astro.scienceoftime
+Nadijyotish https://play.google.com/store/apps/details?id=com.astroscience.app&hl=en_IN
 
 Nadi Jyotish Astrologer https://play.google.com/store/apps/details?id=com.nadijyotish.live
 
