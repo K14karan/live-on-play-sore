@@ -7,11 +7,9 @@ Nadi Jyotish Astrologer https://play.google.com/store/apps/details?id=com.nadijy
 
 Nadijyotish https://play.google.com/store/apps/details?id=com.astroscience.app&hl=en_IN
 
-bike9pro
-https://play.google.com/store/apps/details?id=com.rss.bike9pro
+Math Formula | All Formula
+https://play.google.com/store/apps/details?id=com.examtest.formula.app&hl=en_IN
 
-bike9pro partner
-https://play.google.com/store/apps/details?id=com.rss.bike_service
 
 Tg Education
 https://play.google.com/store/apps/details?id=com.tgeducation.app
