@@ -10,8 +10,8 @@ Nadi Jyotish Astrologer https://play.google.com/store/apps/details?id=com.nadijy
 
 Nadijyotish https://play.google.com/store/apps/details?id=com.astroscience.app&hl=en_IN
 
-free Ambulance
-https://play.google.com/store/apps/details?id=com.ambulance.charitable.trust
+Taazait
+https://play.google.com/store/apps/details?id=com.taazacart.app&hl=en_IN
 
 Astro Mukti - Online Astrology
 https://play.google.com/store/apps/details?id=com.jyotisuser&hl=en_IN
