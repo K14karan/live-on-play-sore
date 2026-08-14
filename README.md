@@ -17,8 +17,8 @@ Astro Mukti - Online Astrology
 https://play.google.com/store/apps/details?id=com.jyotisuser&hl=en_IN
 
 
-Astro Mukti - Astrologer
-https://play.google.com/store/apps/details?id=com.jyotishastro&hl=en_IN
+RupiTrack: Daily Expense App
+https://play.google.com/store/apps/details?id=com.daily.expense.app
 
 
 
